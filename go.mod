@@ -1,4 +1,4 @@
-module gofiber/exception
+module gofiber-exception
 
 go 1.22.4
 
