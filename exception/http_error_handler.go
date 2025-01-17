@@ -3,7 +3,7 @@ package exception
 import (
 	"github.com/go-sql-driver/mysql"
 	"github.com/gofiber/fiber/v2"
-	"gofiber-exception/internal/model"
+	"github.com/simabdi/gofiber-exception/internal/model"
 	"net"
 	"net/http"
 )
