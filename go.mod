@@ -1,4 +1,4 @@
-module gofiber-exception
+module github.com/simabdi/gofiber-exception
 
 go 1.22.4
 
